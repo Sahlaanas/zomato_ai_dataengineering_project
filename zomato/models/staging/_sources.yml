@@ -1,0 +1,12 @@
+   sources:
+    - name: raw
+      database: ZOMATO
+      schema: RAW 
+      tables:
+        - name: restaurants
+        - name: users 
+        - name: food
+        - name: menu
+        - name: orders
+        - name: order_items
+        - name: reviews 
