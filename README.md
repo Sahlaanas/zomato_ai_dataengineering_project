@@ -10,7 +10,7 @@ This project simulates a real-world food delivery analytics stack. Data is inges
 
 ## Dataset
 
-The dataset and project slides are available here: **[Google Drive folder]** — download the CSVs and place them under `data/` (excluded from the repo due to size, ~2.3 GB).
+The dataset are CSV files and placed under `data/` in local(excluded from the repo due to size, ~2.3 GB).
 
 ## What's Built
 
